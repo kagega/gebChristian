@@ -1,0 +1,55 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+<h1>Geburtstagsgeschenk</h1>
+
+public boolean klettersteig(){
+	while(hoehenmeter==hoehenmeterHabsburghaus){
+		gehen;
+		return ankunft
+	}
+
+	Klettersteig = Wildfährte;
+	<p>1300Hoehenmeter, 5 1/2 Stunden, Rax-Schneeberggruppe</p>
+}
+
+public Auto hinfahren(Mitnehmen Person){
+	var Auto = CitroenC3;
+}
+
+public ausrüstung besorgen(){
+	return klettersteigset;
+}
+
+var weitereInformationen = 
+http://www.bergsteigen.com/klettersteig/niederoesterreich/
+rax-schneeberg-gruppe/wildfaehrte
+
+boolean schlafen = "Habsburghaus";
+
+String[] Ausruestung = new String[]
+{Wanderschuhe, Klettersteigset, Helm, Pyjama, etc.}
+
+public static main(String[] args){
+
+	if(wetter==schön || temperatur<15){
+		var christian;
+		var georg;
+	}
+	georg.besorgen();
+	georg.hinfahren(christian);
+	christian.klettersteig();
+	georg.klettersteig();
+	
+	if(klettersteig==geschafft){
+		return essen, schlafen
+	}
+	if(Zeit==InDerFrüh){
+		georg.retour();
+		christian.retour();
+	}
+	
+}
